@@ -4,8 +4,7 @@ This repository contains [audio samples](https://bnam2103.github.io/tts_t5/) gen
 
 ## Live Demo
 
-View the site: [https://huggingface.co/nambn0321](https://huggingface.co/nambn0321)
-Then go to my space and try T5_First_US_Accent and T5_Second_US_Accent
+Try [T5_First_US_Accent](https://huggingface.co/spaces/nambn0321/T5_First_US_Accent) and [T5_Second_US_Accent](https://huggingface.co/spaces/nambn0321/T5_Second_US_Accent)
 
 ## Models Used
 
@@ -15,9 +14,8 @@ Then go to my space and try T5_First_US_Accent and T5_Second_US_Accent
   - Trained on: LibriVox Dataset
 
 ## Notes
-
 - The test sentences used for evaluation were **not included in the training set** for either model.
 - All samples are playable directly in the browser via `<audio>` elements.
-- This is a static website, hosted via GitHub Pages.
-
+- These two models are currently being optimized to improve speech quality and naturalness.
+  
 **Nom**
