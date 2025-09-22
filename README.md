@@ -22,13 +22,9 @@ You can try the models live through the following Hugging Face Spaces: [T5_First
 
 ## Notes
 
-- Test Sentences: The test sentences used for evaluation were not included in the training set for either model. This ensures that the models are being evaluated on unseen data.
-
-- Audio Playback: All samples are playable directly in the browser using <audio> elements, making it easy to listen to the comparisons without needing to download files.
+- Test Sentences: The test sentences used for evaluation were not included in the training set for either model. 
 
 - Model Optimization: Both models are currently being optimized to improve speech quality, particularly in terms of naturalness, prosody, and accent handling.
-
-- Accents: Model A features a more natural humanlike American accent, while Model B adopts a neutral, balanced tone.
 
 ## Usage
 ```python
