@@ -7,6 +7,10 @@ For more information on usage, training, and evaluation, visit [my Hugging Face 
 ## Live Demo
 You can try the models live through the following Hugging Face Spaces: [T5_First_US_Accent](https://huggingface.co/spaces/nambn0321/T5_First_US_Accent) and [T5_Second_US_Accent](https://huggingface.co/spaces/nambn0321/T5_Second_US_Accent)
 
+- Input **numbers** as words (e.g., write `10` as "`ten`").  
+- **Punctuation** matters—so use proper punctuation to get natural speech.
+- **Apostrophes**: For clarity, shortenings like "you're" must be written fully as "you are".
+  
 ## Models Used
 
 - **Model A**: [`T5_US_Accent_1`](https://huggingface.co/nambn0321/T5_US_Accent_1)
